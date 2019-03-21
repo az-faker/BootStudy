@@ -1,0 +1,14 @@
+server:
+  port: 7777
+
+com:
+  study:
+    db: mysql
+    name: mysql,oracle,plsql
+#    url:
+#      - https://baidu.com
+#      - https://spring.io
+    map:
+      foo: bar
+      hello: world
+      '[foo.baz]': helloworld
